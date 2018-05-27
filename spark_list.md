@@ -29,6 +29,8 @@
 
 [Structed Stream](http://slamke.github.io/2017/04/06/Structured-Streaming%E4%BB%8B%E7%BB%8D/)
 
+[SS lxw1234](http://lxw1234.com/archives/2016/10/772.htm)
+
 ---
 ---
 
