@@ -31,6 +31,12 @@
 
 [SS lxw1234](http://lxw1234.com/archives/2016/10/772.htm)
 
+##input/output
+
+* [input output 101](https://blog.csdn.net/zeroder/article/details/73650738)
+* [input, output and ETL](https://blog.csdn.net/lovebyz/article/details/75665431)
+* [detail of output](https://www.cnblogs.com/huliangwen/p/7470705.html）
+
 ---
 ---
 
